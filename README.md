@@ -10,8 +10,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aashirwadjain&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashirwadjain&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=495)<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=Aashirwadjain&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashirwadjain&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aashirwadjain&icon=0&color=9)](https://visitcount.itsvg.in)
