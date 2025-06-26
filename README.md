@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m working on Blockchain stuff 
+ 🔭 I work on Observability, Monitoring, and Terraform.
 
 
 ## 🌐 Socials:
