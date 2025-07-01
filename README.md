@@ -1,7 +1,6 @@
 # 💫 About Me:
  🔭 I work on Observability, Monitoring, and Terraform.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashirwad-jain/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aashirwad__Jain) 
 
