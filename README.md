@@ -1,5 +1,10 @@
+<h1 align="center">Hi, I'm Aashirwad Jain ✌️</h1>
+<h3 align="center">Software Engineer · Observability · Distributed Systems</h3>
+
+
 # 💫 About Me:
  🔭 I work on Observability, Monitoring, and Terraform.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashirwad-jain/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aashirwad__Jain) 
@@ -13,5 +18,5 @@
 
 <!--![](https://github-readme-stats.vercel.app/api?username=Aashirwadjain&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 
----
-[![](https://visitcount.itsvg.in/api?id=Aashirwadjain&icon=0&color=9)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Aashirwadjain&icon=0&color=9)](https://visitcount.itsvg.in)-->
+
