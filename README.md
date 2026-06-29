@@ -3,7 +3,11 @@
 
 
 # 💫 About Me:
- 🔭 I work on Observability, Monitoring, and Terraform.
+ 🔭 Hi, I'm Aashirwad and I build the systems that help engineers understand their systems.
+
+I'm Software Engineer working on observability - the systems that help engineers see and trust what their software is doing. I work in Go, manage systems with Terraform, and designing distributed systems that move telemetry across regions.
+
+I'm an active open source contributor and a competitive programmer, both keep me close to engineering as a craft.
 
 
 ## 🌐 Socials:
